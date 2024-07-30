@@ -1,4 +1,4 @@
-# 1131_robotics-SIM
+# 1131_Robotics-SIM
 ME4609301 Introduction to Robotics (機器人學概論)
 - Robot design
 - mathmatic models
