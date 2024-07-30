@@ -17,9 +17,14 @@ The book of Robot Design cover the main conceplllll
 ## Mathmatic and mechanical design   
 💡 Mathmatic and mechancal desing
 ###* Geogebra
-
+- GeoGebra https://www.geogebra.org/
+- Calculator https://www.geogebra.org/calculator
+- Basic exercise 
+  - Synthesis of Mechanisms https://www.geogebra.org/m/SF2rQXEp
+  - 
 ### Referecne (UC Irine)
 - Flapping Wing Prototype  https://www.youtube.com/watch?v=7B9sfOg_uVo
+- Spider Linkage Geogebra Demonstration https://www.youtube.com/watch?v=Q9T0k0KCAGc&t=37s
 
 
 
