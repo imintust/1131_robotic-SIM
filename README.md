@@ -1,8 +1,7 @@
 131_robotics-EX
 ME4609301 Introduction to Robotics (機器人學概論)
-This course delivers the fundamental concept of Robot Design and application cases. Students can learn about  
-
-![image](https://github.com/user-attachments/assets/d6584024-3785-4bfe-b206-c18d97064644)
+This course delivers the fundamental concept of Robot Design and application cases. Students can  learn about  
+----------------------------------------------------------------------------------------------------------------------
 
 
 113 Introduction to Robotics Tutorial (EPSON)
@@ -10,7 +9,7 @@ This course delivers the fundamental concept of Robot Design and application cas
 (add course code here) Graduate Institute of Intelligent Manufacturing Tech., NTUST.
 💡 In this class, the students can learn the basics of manipulating industrial robot arms (EPSON robot) operation. The class introduces two types of robots 6-Axis robots. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot.
 
-🔰 Exercises and resources
+🔰 Textbook 
 Basic and Challenging tasks: (by team)
  Basic tasks
  Challenging tasks
