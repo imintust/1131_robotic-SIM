@@ -1,6 +1,9 @@
 # 1131_robotics-SIM
 ME4609301 Introduction to Robotics (機器人學概論)
-Robot design, mathmatic models, mechanism design exercise (Geogebra), robot system design (with matlab robotics tools)
+- Robot design
+- mathmatic models
+- mechanism design exercise (Geogebra)
+- robot system design (with matlab robotics tools)
 ----------------------------------------------------------------------------------------------------------------------
 
 
