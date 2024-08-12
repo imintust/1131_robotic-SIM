@@ -3,7 +3,7 @@ ME4609301 Introduction to Robotics (機器人學概論)
 - Robot design
 - mathmatic models
 - Math Tool (Geogebra basic) https://www.geogebra.org/download
-- Md
+- Matlab onramp
 - robot system design (with matlab robotics tools)
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -35,5 +35,6 @@ The book of Robot Design cover the main conceplllll
 ### Matlab basic
 🔰 Matlab
 
-
+#### Reference
+- MATLAB Fundationals Quick Reference:https://matlabacademy.mathworks.com/artifacts/quick-reference.html?course=mlbe&language=en&release=R2024a
 ### Matlab Robotic Toolbox
