@@ -1,20 +1,16 @@
-# 1131_Robotics-SIM
-ME4609301 Introduction to Robotics (機器人學概論)
-- Robot design
-- mathmatic models
-- Math Tool (Geogebra basic) https://www.geogebra.org/download
-- Matlab onramp
-- robot system design (with matlab robotics tools)
+# 1131_Introduction to Robotics (機器人學概論 ME4609301)
+This course delivers the fundamental concept of Robot Design and application cases to inspire students' interest in robotics. Lectures explain the development of robotics from ancient to modern robots and depict the mathematical theories applied to robotics in many cases. The mathematical tools Geometry and Matlab help students create mathematical models to comprehend the design process of a robot. Eventually, students can initialize a novel robot design program or participate in relevant research.  
+## Main subjects
+- Lecture: Robot design
+- Mathmatic models: 
+  -- Math Tool: Geogebra (https://www.geogebra.org/download)
+  -- Matlab fundamental and Simulink
+  -- Matlab Robotic System Toolbox
+- Final Project: four students per team 
 ----------------------------------------------------------------------------------------------------------------------
-
-
-This course delivers the fundamental concept of Robot Design and application cases. Students can  learn about  
-
 ## Textbook  
 🔰 Textbook 
-The book of Robot Design cover the main conceplllll
-.
-
+The book of Robot Design cover the main concept
 ## Mathmatic and mechanical design   
 💡 Mathmatic and mechancal desing
 ###* Geogebra
@@ -32,7 +28,12 @@ The book of Robot Design cover the main conceplllll
 - 3 Days Training schedule: Fundamental and Simulink
 - Link: https://www.mathworks.com/learn/training/matlab-fundamentals.html
 
-
 #### Reference
 - MATLAB Fundationals Quick Reference:https://matlabacademy.mathworks.com/artifacts/quick-reference.html?course=mlbe&language=en&release=R2024a
-### Matlab Robotic Toolbox
+
+▶️Matlab download and installation
+1: Installation Matlab and apply an account. 
+Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php
+2: Robotix
+https://www.mathworks.com/videos/easy-wireless-waveform-generation-with-matlab-1682667504303.html
+Examples
