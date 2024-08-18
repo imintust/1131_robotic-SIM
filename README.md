@@ -3,9 +3,9 @@ This course delivers the fundamental concept of Robot Design and application cas
 ## Main subjects
 - Lecture: Robot design
 - Mathmatic models: 
-  -- Math Tool: Geogebra (https://www.geogebra.org/download)
-  -- Matlab fundamental and Simulink
-  -- Matlab Robotic System Toolbox
+  - Geogebra (https://www.geogebra.org/download)
+  - Matlab fundamental and Simulink
+  - Matlab Robotic System Toolbox
 - Final Project: four students per team 
 ----------------------------------------------------------------------------------------------------------------------
 ## Textbook  
