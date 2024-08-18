@@ -1,4 +1,4 @@
-# 1131_Introduction to Robotics (機器人學概論 ME4609301)
+# 1131 Introduction to Robotics (機器人學概論 ME4609301)
 This course delivers the fundamental concept of Robot Design and application cases to inspire students' interest in robotics. Lectures explain the development of robotics from ancient to modern robots and depict the mathematical theories applied to robotics in many cases. The mathematical tools Geometry and Matlab help students create mathematical models to comprehend the design process of a robot. Eventually, students can initialize a novel robot design program or participate in relevant research.  
 ## Main subjects
 - Lecture: Robot design
