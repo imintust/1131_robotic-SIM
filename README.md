@@ -13,7 +13,7 @@ This course delivers the fundamental concept of Robot Design and application cas
 The book of Robot Design cover the main concept
 ## Mathmatic and mechanical design   
 💡 Mathmatic and mechancal desing
-###* Geogebra
+## Geogebra
 - GeoGebra https://www.geogebra.org/
 - Calculator https://www.geogebra.org/calculator
 - Basic exercise 
