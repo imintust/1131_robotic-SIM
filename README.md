@@ -33,8 +33,8 @@ The book of Robot Design cover the main concept
 - Free robotics toolbox: https://petercorke.com/toolboxes/robotics-toolbox/#
 
 ▶️Matlab download and installation
-1: Installation Matlab and apply an account. 
+- 1: Installation Matlab and apply an account. 
 Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php
-2: Robotix
+- 2: Robotix
 https://www.mathworks.com/videos/easy-wireless-waveform-generation-with-matlab-1682667504303.html
-Examples
+- Examples
