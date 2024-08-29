@@ -19,7 +19,7 @@ This course delivers the fundamental concept of Robot Design and application cas
 - Basic exercise 
   - Synthesis of Mechanisms https://www.geogebra.org/m/SF2rQXEp
   - Synthesis of a Double 4-bar Quick Return https://www.geogebra.org/m/SF2rQXEp#material/gfXTyjGE
-  - 
+  - Design of the high-payload flapping wing robot E-Flap: https://www.youtube.com/watch?v=kwuW8cfy-MI
 ### Referecne (UC Irine)
 - Flapping Wing Prototype  https://www.youtube.com/watch?v=7B9sfOg_uVo
 - Spider Linkage Geogebra Demonstration https://www.youtube.com/watch?v=Q9T0k0KCAGc&t=37s
