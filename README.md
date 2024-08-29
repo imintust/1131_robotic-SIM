@@ -10,7 +10,7 @@ This course delivers the fundamental concept of Robot Design and application cas
 ----------------------------------------------------------------------------------------------------------------------
 ## Textbook  
 🔰 Textbook 
-- Robot Design - From Theory to Service Applications ©2023 
+- Robot Design - From Theory to Service Applications ©2023 https://link.springer.com/book/10.1007/978-3-031-11128-0
 ## Mathmatic and mechanical design   
 💡 Mathmatic and mechancal desing
 ## Geogebra
