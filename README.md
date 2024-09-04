@@ -14,7 +14,7 @@ This course delivers the fundamental concept of Robot Design and application cas
 🔰 Textbook 
 - Robot Design - From Theory to Service Applications ©2023
   - https://link.springer.com/book/10.1007/978-3-031-11128-0
-- Reference:
+- References
   - Mechanical mechanism & applications: https://www.youtube.com/watch?v=yB-fM7uAwaE
   - Hexapod Walking Machine: https://www.youtube.com/watch?v=eIaefxSyB7s
 ## Mathmatic and mechanical design   
