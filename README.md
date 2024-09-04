@@ -16,6 +16,7 @@ This course delivers the fundamental concept of Robot Design and application cas
   - https://link.springer.com/book/10.1007/978-3-031-11128-0
 - References
   - Mechanical mechanism & applications: https://www.youtube.com/watch?v=yB-fM7uAwaE
+  - Walking robot - 4 legged: https://www.youtube.com/watch?v=wcthsETXsVQ
   - Hexapod Walking Machine: https://www.youtube.com/watch?v=eIaefxSyB7s
 ## Mathmatic and mechanical design   
 💡 Mathmatic and mechanical design
