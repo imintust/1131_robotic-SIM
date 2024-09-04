@@ -16,8 +16,9 @@ This course delivers the fundamental concept of Robot Design and application cas
   - https://link.springer.com/book/10.1007/978-3-031-11128-0
 - Reference:
   - Mechanical mechanism & applications: https://www.youtube.com/watch?v=yB-fM7uAwaE
+  - Hexapod Walking Machine: https://www.youtube.com/watch?v=eIaefxSyB7s
 ## Mathmatic and mechanical design   
-💡 Mathmatic and mechancal desing
+💡 Mathmatic and mechanical design
 ## Geogebra
 - GeoGebra https://www.geogebra.org/
 - Calculator https://www.geogebra.org/calculator
